@@ -3,7 +3,17 @@
 🎮 **Echoes** — A choice-driven horror experience on iOS.  
 Your car breaks down in a dark, silent forest. A shadow approaches… What will you do?
 
-![Echoes Screenshot](screenshots/intro.png)
+## 🖼️ Screenshots
+
+### Main Screen
+
+<img src="screenshots/2.png" width="250">
+
+### 🔵 Splash Screen
+<img src="screenshots/1.png" width="250">
+
+### 🧙‍♀️ App Icon
+<img src="screenshots/3" width="250">
 
 ## 🕹️ About the Game
 
@@ -38,3 +48,7 @@ Will you:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/echoes.git
+   
+## Author
+
+**Yavuz** – iOS Developer
