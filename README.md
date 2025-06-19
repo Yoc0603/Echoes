@@ -13,7 +13,7 @@ Your car breaks down in a dark, silent forest. A shadow approaches… What will 
 <img src="screenshots/1.png" width="250">
 
 ### 🧙‍♀️ App Icon
-<img src="screenshots/3" width="250">
+<img src="screenshots/3.png" width="250">
 
 ## 🕹️ About the Game
 
