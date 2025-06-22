@@ -47,7 +47,7 @@ Will you:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/echoes.git
+   git clone https://github.com/Yoc0603/echoes.git
    
 ## Author
 
